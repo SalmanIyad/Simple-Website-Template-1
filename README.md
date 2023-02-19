@@ -3,6 +3,12 @@
 
 Simple  Responsive Website Template.
 
+## Skills Used
+
+```
+HTML5, CSS3 
+```
+
 ## Color Reference
 
 | Color             | Hex                                                                |
