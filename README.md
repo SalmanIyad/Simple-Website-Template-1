@@ -22,12 +22,7 @@ HTML5, CSS3
 
 ## Screenshots For The Hole Website 
 
-![1](https://user-images.githubusercontent.com/110406908/219962776-657cba1f-6d06-42d2-b7ca-e89c2e339082.png)
-![2](https://user-images.githubusercontent.com/110406908/219962778-8fb79966-74df-40c8-8a17-3bb3c0726a75.png)
-![3](https://user-images.githubusercontent.com/110406908/219962781-cd6ca40d-9163-45bb-9354-be59dac84145.png)
-![4](https://user-images.githubusercontent.com/110406908/219962782-6e06e9ac-84ab-4ab4-8519-3cd4f8fe8d1c.png)
-![5](https://user-images.githubusercontent.com/110406908/219962785-e38a8137-2018-4c4a-83dd-ca9fbaca4766.png)
-![6](https://user-images.githubusercontent.com/110406908/219962793-3f6c341e-6738-417d-8811-005e020b8342.png)
+![Screenshot](https://user-images.githubusercontent.com/110406908/219963898-80adf8c4-b173-4142-8980-b06c0e130cef.png)
 
 ## Author
 
